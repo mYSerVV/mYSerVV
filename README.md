@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mYSerVV
+- 👋 Hi, I’m @Swaraj
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++ & Python
 - 📫 How to reach me IG- wtf.swarajj
